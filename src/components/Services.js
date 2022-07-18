@@ -150,10 +150,7 @@ h1{
     box-shadow: 10px 10px lightblue;
 }
 
-/* 
-.box:hover {
-    transform: scale(1.1, 1.1);
-}
+
 
 /* Fade in the pseudo-element with the bigger shadow */
 .box:hover::after {
