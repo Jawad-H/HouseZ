@@ -1,6 +1,5 @@
-import { React, useState, useRef, useEffect } from 'react'
+import { React, useState, useEffect } from 'react'
 import { BsTwitter, BsInstagram } from 'react-icons/bs';
-import pic from './Company.png';
 import styled from 'styled-components';
 function Header() {
     const [active, setActive] = useState(false);
